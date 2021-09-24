@@ -22,7 +22,7 @@ class Administrador:
          la cual será la ventana principal,
          a su vez creamos su título y 
          seguidamente del llamado del método
-         "apliacación"
+         "aplicación"
 
         """
         self.raiz=Tk()
