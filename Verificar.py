@@ -3,8 +3,8 @@ import re
 def Validar(campo):
 	"""
 	En este método validamos 
-	dos datos recividos en título
-	segun un cierto patron
+	los datos recibidos en título
+	según un patron
 	"""
 	patron="^[A-Za-z]+(?:[_-][A-Za-z]+)*$"
 	if re.search(patron,campo)is None:
