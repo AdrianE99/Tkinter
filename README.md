@@ -1,7 +1,7 @@
 # Aplicación Tkinter
 ------
 
-Crear una aplicacion Tkinter
+Crear una aplicacion Tkinter.
 
 # Requisitos
 
